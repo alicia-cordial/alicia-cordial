@@ -9,7 +9,7 @@
 💞️ I’m looking to collaborate on new fun projects  
 📫 How to reach me: alicia.cordial@laplateforme.io
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,symfony,py,bootstrap,nodejs,ts,vscode,figma,github,tailwind,mongodb,mysql,c,cs,cpp,cmake,java,obsidian,&perline=10)](https://github.com/alicia-cordial)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,symfony,py,bootstrap,nodejs,ts,vscode,figma,github,tailwind,mongodb,mysql,c,cs,cpp,cmake,java,obsidian,&perline=6)](https://github.com/alicia-cordial)
 
 👀 In my free time, I’m learning new creative projects like sewing and crochet.  
 🐶 Proud mama of a beagle 🥯
