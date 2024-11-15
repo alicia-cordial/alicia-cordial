@@ -1,3 +1,4 @@
+<img src="https://alicia-cordial.students-laplateforme.io/github-header-image.png"/>
 
 ## 🚀 About Me
 
